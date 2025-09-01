@@ -1,0 +1,8 @@
+[header]
+type=preset
+application=Advanced Renamer 3.10
+application_version=3100002
+
+[methods]
+method0000=methodname:"newname"; mask:"<IMG Year>-<IMG Month>-<IMG Day>_<IMG Hour>-<IMG Min>-<IMG Sec>.<Ext>";
+
